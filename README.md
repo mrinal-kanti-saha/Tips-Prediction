@@ -1,4 +1,4 @@
-# Tips-Prediction
+# Waiter's Tips Prediction
 Implementing a Linear Regression Model to predict meal tips using R programming language.
 Developed and Deployed a proof-of-concept (POC) web application using Shiny and Docker.
 
